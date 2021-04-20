@@ -1,1 +1,3 @@
-# desafio_spike
+# Desafio Spike
+
+Autor: **Andrés Jahr**
